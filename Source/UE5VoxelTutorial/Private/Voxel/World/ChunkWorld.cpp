@@ -5,6 +5,7 @@
 
 #include "Voxel/Chunk/ChunkBase.h"
 #include "Kismet/GameplayStatics.h"
+#include <stdexcept>
 
 // Sets default values
 AChunkWorld::AChunkWorld()

@@ -5,6 +5,7 @@
 
 #include "Voxel/Utils/FastNoiseLite.h"
 #include "ProceduralMeshComponent.h"
+#include <stdexcept>
 
 
 // Sets default values
